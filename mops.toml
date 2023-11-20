@@ -1,0 +1,3 @@
+[dependencies]
+base = "0.9.7"
+candb = "1.0.2"
